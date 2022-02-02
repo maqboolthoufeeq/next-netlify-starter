@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to my app!" />
-        <a href="RRTTS/FAIZ-2022-02-02101000-3084274.pdf" download></a>
+        <a href="pages/RRTTS/FAIZ-2022-02-02101000-3084274.pdf" download></a>
        <a href="RRTTS/HENNA-2022-02-02101500-3084275.pdf" download></a>
         <a href="RRTTS/MohammedShafeeqTest.pdf" download></a>
           <a href="RRTTS/MohammedShafeeqTest.pdf" download></a>
