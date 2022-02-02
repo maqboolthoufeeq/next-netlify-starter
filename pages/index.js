@@ -6,19 +6,19 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title></title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <a href="RRTTS/FAIZ-2022-02-02101000-3084274.pdf" download></a>
         <a href="pages/RRTTS/FAIZ-2022-02-02101000-3084274.pdf" download></a>
-       <a href="RRTTS/HENNA-2022-02-02101500-3084275.pdf" download></a>
-        <a href="RRTTS/MohammedShafeeqTest.pdf" download></a>
-          <a href="RRTTS/MohammedShafeeqTest.pdf" download></a>
-        <a href="RRTTS/MohammedShafeeqTest.pdf" download></a>
-        <a href="RRTTS/MohammedShafeeqTest.pdf" download></a>
-        <a href="RRTTS/MohammedShafeeqTest.pdf" download></a>
+        <a href="/pages/RRTTS/FAIZ-2022-02-02101000-3084274.pdf" download></a>        
+
+        <a href="RRTTS/HENNA-2022-02-02101500-3084275.pdf" download></a>
+        <a href="pages/RRTTS/HENNA-2022-02-02101500-3084275.pdf" download></a>
+        <a href="/pages/RRTTS/HENNA-2022-02-02101500-3084275.pdf" download></a>
+       
       </main>
 
       <Footer />
